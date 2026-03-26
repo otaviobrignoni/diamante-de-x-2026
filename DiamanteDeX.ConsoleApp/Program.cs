@@ -1,6 +1,4 @@
-﻿using System.Xml;
-
-namespace DiamanteDeX.ConsoleApp;
+﻿namespace DiamanteDeX.ConsoleApp;
 
 class Program
 {
